@@ -9,7 +9,7 @@ public class CircumferenceCircle {
         String askUser;
         boolean continueLoop = false;
 
-        try { //Catch the wrong data type input error, specifically to double.
+        try { //Catch the wrong data type input error, specifically double.
             do {
                 System.out.print("Enter the radius of the circle: "); // Ask user to enter the radius of the circle.
                 radius = scan.nextDouble();
@@ -40,3 +40,4 @@ public class CircumferenceCircle {
         scan.close();
     }
 }
+
