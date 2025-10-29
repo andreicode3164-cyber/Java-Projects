@@ -1,2 +1,1 @@
 # Java-Projects
-Hello everyone. I just want to share my mini Java Projects. Feel free to comment, and use my codes as a reference. For Juniors to Seniors out there, feel free to comment about my code. I really appreaciate your comment that would help me in my journey. THANKS :).
