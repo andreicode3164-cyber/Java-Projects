@@ -1,2 +1,2 @@
 # Java-Projects
-Hello everyone. I'm an aspiring Software Engineer from the Philippines. I'm currently 1st Year BSIT Student, and I just want to share my projects in Java. Feel free to comment, and use my codes as a reference. For junior to senior levels out there, feel free to comment about my code, I really appreaciate that. THANKS : ).
+Hello everyone. I just want to share my mini Java Projects. Feel free to comment, and use my codes as a reference. For Juniors to Seniors out there, feel free to comment about my code, I really appreaciate your comment that would help me in my journey. THANKS :).
